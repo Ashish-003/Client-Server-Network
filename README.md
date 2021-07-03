@@ -4,14 +4,14 @@
 
 ### Server-side
 ```sh
-cd  server_dir
+cd  server
 gcc server.c -o server
 ./server
 ```
 
 ### Client-side
 ```sh
-cd  client_dir
+cd  client
 gcc client.c -o client
 ./client
 ```
